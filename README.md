@@ -14,6 +14,6 @@ Depth figures as well figures of family
 
 Merged Data Fish habitat:
 
-Figures with fish and deph
+Figures with fish + depth + habitat
 
 statistical modeling - I have also included those I tried to use so you can see the variations of model structures I have tried
